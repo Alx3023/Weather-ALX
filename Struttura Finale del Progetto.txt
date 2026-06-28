@@ -1,0 +1,17 @@
+tuo-progetto/
+├── index.html                    ← File principale
+├── manifest.json                 ← PWA manifest
+├── browserconfig.xml             ← Windows/Edge
+├── icon.svg                      ← Icona base SVG
+├── splash/                       ← 🎬 NUOVA CARTELLA
+│   └── splash-2048.png          ← Immagine splash fullscreen
+└── icons/                        ← 🎨 Cartella icone
+    ├── favicon-16x16.png
+    ├── favicon-32x32.png
+    ├── apple-touch-icon-180x180.png
+    ├── icon-192x192.png
+    ├── icon-512x512.png
+    ├── icon-maskable-512x512.png
+    ├── mstile-150x150.png
+    ├── safari-pinned-tab.svg
+    └── og-image-1200x630.png
